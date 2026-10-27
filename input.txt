@@ -1,0 +1,6 @@
+4
+cube 50
+circle 80
+cube 60
+circle 20
+circle 5
